@@ -5,5 +5,8 @@
 h1{
     font-family: 'Times New Roman';
     display: flex;
-    background-color: crimson;
+    background-color: rgb(17, 13, 39);
+    color: white;
+    padding: 50px;
+    margin: 30px;
 }
